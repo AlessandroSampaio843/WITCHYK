@@ -1,0 +1,16 @@
+PASTA DE FOTOS DOS OBJETOS 3D
+
+Coloque nesta pasta as imagens dos seus produtos.
+Formatos recomendados: .jpg, .jpeg ou .png.
+
+Nomes usados atualmente pelo site:
+- capa-principal.jpg: imagem grande do topo da página.
+- one-piece.jpg: foto do molde de One Piece.
+- dragon-ball.jpg: foto do molde de Dragon Ball.
+- naruto.jpg: foto do molde de Naruto.
+- chaveiro.jpg: foto do chaveiro ou presente personalizado.
+- suporte.jpg: foto do suporte de coleção.
+- mini-busto.jpg: foto do mini busto em PLA.
+
+Para trocar títulos, categorias ou descrições, abra src/App.jsx e procure o bloco chamado "DADOS EDITÁVEIS".
+As imagens devem ficar diretamente dentro desta pasta, sem criar outra subpasta.
